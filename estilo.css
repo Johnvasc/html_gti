@@ -1,0 +1,28 @@
+section{
+    position: relative;
+    height: 400px;
+    width: 100%;
+    background-color: black;
+}
+.img1{
+    position: absolute;
+    height: 400px;
+    width: 100%;
+}
+.txt1{
+    position: absolute;
+    left: 10%;
+    top: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: medium;
+}
+.txt2{
+    line-height: 1.5;
+    position: absolute;
+    width: 300px;
+    left: 10%;
+    top: 42%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color: white;
